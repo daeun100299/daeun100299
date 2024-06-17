@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Daeun's%20GitHub&fontSize=70)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=3cb371&height=250&section=header&text=Daeun's%20GitHub&fontSize=70" />
 <br><br/><br><br/><br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun100299&show_icons=true&theme=vue)
 <br></br>
