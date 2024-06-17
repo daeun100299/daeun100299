@@ -1,19 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=3cb371&height=250&section=header&text=Daeun's%20GitHub&fontSize=70)
 
-<table style="width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="width: 50%; text-align: right; border: none;">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=daeun100299" alt="Anurag's GitHub stats" style="width: 100%;">
-      </a>
-    </td>
-    <td style="width: 50%; text-align: left; border: none;">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299" alt="Top Langs" style="width: 100%;">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun100299)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 사용 기술 👋
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
