@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3cb371&height=250&section=header&text=Daeun's%20GitHub&fontSize=70" />
 <br><br/><br><br/><br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun100299&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299)](https://github.com/anuraghazra/github-readme-stats)
+<br><br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun100299)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 ### 사용 기술 👋
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
