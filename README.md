@@ -6,7 +6,7 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=daeun100299" alt="Anurag's GitHub stats">
   </a>
-  <a href="#">
+  <a href="#"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299" alt="Top Langs">
   </a>
 </p>
