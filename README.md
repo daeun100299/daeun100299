@@ -34,10 +34,30 @@
 <div align="center">
   <h3><strong>프로젝트</strong> 📑</h3>
 </div>
-|프로젝트 이름|URL|프로젝트 설명|
-|---|---|---|
-|KETCHUP|http|그룹웨어|
-|COMPANIAML|http|크라우드 펀딩 사이트|
+
+<div align="center">
+  <table style="margin: 0 auto;">
+    <thead>
+      <tr>
+        <th>프로젝트 이름</th>
+        <th>URL</th>
+        <th>프로젝트 설명</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">KETCHUP</td>
+        <td align="center"><a href="http://ketchup.example.com">KETCHUP 구경하러 가기</a></td>
+        <td>기업 내 업무 공유와 협업을 위한 그룹웨어</td>
+      </tr>
+      <tr>
+        <td align="center">COMPANIAML</td>
+        <td align="center"><a href="http://companiaml.example.com">COMPANIMAL 구경하러 가기</a></td>
+        <td>반려동물의 상품을 기획하고 판매를 할 수 있는 크라우드 펀딩 사이트</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 ***
