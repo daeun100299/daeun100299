@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <h3><strong>사용 기술</strong> 👋</h3>
+  <h3><strong>사용 기술</strong> 🛠</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
@@ -23,13 +23,22 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 <div align="center">
-  <h3><strong>협업</strong> 👋</h3>
+  <h3><strong>협업</strong> 👩‍👩‍👧‍👧</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+
+<div align="center">
+  <h3><strong>프로젝트</strong> 📑</h3>
+</div>
+|프로젝트 이름|URL|프로젝트 설명|
+|---|---|---|
+|KETCHUP|http|그룹웨어|
+|COMPANIAML|http|크라우드 펀딩 사이트|
+
 
 ***
 - 🔭 I’m currently working on ...
