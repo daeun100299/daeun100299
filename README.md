@@ -4,14 +4,9 @@
 
 <div align="center">
   <h3>저는</h3>
-  <p>🔭 I’m currently working on ...</p>
-  <p>🌱 I’m currently learning ...</p>
-  <p>👯 I’m looking to collaborate on ...</p>
-  <p>🤔 I’m looking for help with ...</p>
-  <p>💬 Ask me about ...</p>
-  <p>📫 How to reach me: ...</p>
-  <p>😄 Pronouns: ...</p>
-  <p>⚡ Fun fact: ...</p>
+  <p>⭐ 맡은 일에 책임감을 가지고, 최선의 결과를 보여주기 위해 노력하겠습니다. ⭐</p>
+  <p>⭐ 꾸준한 자기계발을 통해 오늘보다 더 발전하겠습니다. ⭐</p>
+  <p>⭐ 부족한 점을 숨기지 않고  적극적으로 소통하겠습니다. ⭐</p>
 </div>
 
 <br></br>
