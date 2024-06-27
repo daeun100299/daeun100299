@@ -15,12 +15,6 @@
 </div>
 
 <br></br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=daeun100299" alt="Anurag's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299" alt="Top Langs">
-</p>
-
-<br></br>
 <div align="center">
   <h3><strong>프로젝트</strong> 📑</h3>
 </div>
@@ -77,4 +71,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+<br></br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=daeun100299" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeun100299" alt="Top Langs">
 </p>
