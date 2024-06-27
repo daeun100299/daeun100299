@@ -48,12 +48,12 @@
       <tr>
         <td align="center">KETCHUP(Front)</td>
         <td align="center"><a href="https://github.com/daeun100299/FinalProject_Ketchup-Front">KETCHUP(Front) 구경하러 가기</a></td>
-        <td>기업 내 업무 공유와 협업을 위한 그룹웨어</td>
+        <td>기업 내 업무 공유와 협업을 위한 그룹웨어(Front)</td>
       </tr>
       <tr>
         <td align="center">KETCHUP(Back)</td>
         <td align="center"><a href="https://github.com/daeun100299/FinalProject_Ketchup-Back">KETCHUP(Back) 구경하러 가기</a></td>
-        <td>기업 내 업무 공유와 협업을 위한 그룹웨어</td>
+        <td>기업 내 업무 공유와 협업을 위한 그룹웨어(Back)</td>
       </tr>
       <tr>
         <td align="center">COMPANIAML</td>
