@@ -52,13 +52,12 @@
       </tr>
       <tr>
         <td align="center">COMPANIAML</td>
-        <td align="center"><a href="http://companiaml.example.com">COMPANIMAL 구경하러 가기</a></td>
+        <td align="center"><a href="https://github.com/daeun100299/SemiProject_Companimal">COMPANIMAL 구경하러 가기</a></td>
         <td>반려동물의 상품을 기획하고 판매를 할 수 있는 크라우드 펀딩 사이트</td>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 ***
 - 🔭 I’m currently working on ...
