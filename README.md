@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3cb371&height=250&section=header&text=Daeun's%20GitHub&fontSize=70" alt="Header">
 </p>
 
-/*
-<div align="center">
-  <h3>저는</h3>
-  <p>⭐ 맡은 일에 책임감을 가지고, 최선의 결과를 보여주기 위해 노력하겠습니다. ⭐</p>
-  <p>⭐ 꾸준한 자기계발을 통해 오늘보다 더 발전하겠습니다. ⭐</p>
-  <p>⭐ 부족한 점을 숨기지 않고  적극적으로 소통하겠습니다. ⭐</p>
-</div>
-*/
 
 <br></br>
 <div align="center">
